@@ -5,7 +5,7 @@ Basta clicar no Menu clone or download
 
 Para baixar o arquivo via Linux, digite o camando no terminal:
 
-git clome https://github.com/orientacaoemtecnologia/google-dorks.git
+git clone https://github.com/orientacaoemtecnologia/google-dorks.git
 
 ou 
 
